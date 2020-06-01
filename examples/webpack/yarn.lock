@@ -682,10 +682,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@stripe/stripe-js@^1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.4.0.tgz#287b0fb653d9a34321dfa8b52f8c99b7983f2eda"
-  integrity sha512-ZvrD4s0T2VcZLXIll0eO9YO/Gnr2sgHgycqvSVN5A3ok/USesD9SL6j1vX9wTy7DVbm0vvQQE01Jap6PjP1IVw==
+"@stripe/stripe-js@^1.5.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.6.0.tgz#b0125c24731ea837cd2c37abc8e3196a55687fc9"
+  integrity sha512-br7ICVN+QJDHOaLnHHN+PQQpg9haEZV7RK6ohysZDov9vV9Ct327nUeovV9s4MQcKW3FwJGixujy7NkiwPy7xg==
 
 "@types/events@*":
   version "3.0.0"
